@@ -58,7 +58,7 @@ gulp.task('taskName3', function() {
                     name: 'awesome',
                     version: '0.1.0'
                 },
-                examples: ['simple', 'simple2']
+                examples: ['simple', 'complex']
             }
         }))
         .pipe(gulp.dest('dist'));

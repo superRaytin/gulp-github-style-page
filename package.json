@@ -1,6 +1,6 @@
 {
   "name": "gulp-github-style-page",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converting markdown content with @github-style-page",
   "main": "lib/index.js",
   "license": "MIT",
@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "through2": "~2.0.0",
-    "github-style-page": "~0.1.1",
+    "github-style-page": "~0.1.2",
     "object-assign": "~4.0.1",
     "gulp-util": "~3.0.7"
   },
